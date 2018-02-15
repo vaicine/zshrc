@@ -1,1 +1,3 @@
-# zshrc
+# My zshrc config
+
+:thumbsup:

@@ -18,7 +18,7 @@ alias serveshit="python -m SimpleHTTPServer 8000"
 alias clearsidekiq="redis-cli flushall"
 alias lsl="ls -altr"
 alias repow="touch tmp/restart.txt"
-alias cdc="cd -;cd -
+alias cdc="cd -;cd -"
 
 ZSH_THEME="vaicine"
 
